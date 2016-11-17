@@ -1,7 +1,13 @@
 ### your site title here
 
-title: Webjeda Hagura
-baseurl: /hagura # name of the repository
+title: L'Année de L'album
+description: '12 mois, 12 chansons.'
+author: Floby
+
+#baseurl: /bidule
+locale: fr
+lang: fr
+language: fr
 
 highlighter: rouge
 markdown: kramdown

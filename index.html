@@ -1,7 +1,8 @@
 ---
 title: L'année de l'Album
-layout: post
+layout: default
 ---
+<h1 class="headline">{{page.title}}</h1>
 
 {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>

@@ -99,6 +99,10 @@ blockquote {
     }
 }
 
+.headline + .subheadline {
+  margin-top: -2em;
+}
+
 
 .home {
     background-image: url(../images/left-arrow.svg);

@@ -16,7 +16,7 @@ J'ai beaucoup de musiques en tête, mais finalement assez peu de temps pour les 
 
 J'ai beaucoup de musique en tête, mais je ne suis ni ingénieur du son ni producteur. J'ai un peu de matériel, deux ou trois notions lues sur les blogs et les forums. J'arrive à appuyer sur le bouton rouge, mais ça ne sort pas vraiment comme si c'était pour de vrai ensuite. En me forçant à publier mon travail, je pense que je m'améliorerait forcément sur ces points. OK j'aurais appris _sur le tas_, ce sera peut-être un peu _freestyle_, mais j'espère que ça ressemblera à un truc clean.
 
-**Les vrais gens, c'est vous.**
+Et dans l'histoire, les vrais gens, **c'est vous.**
 
 #### Le projet
 

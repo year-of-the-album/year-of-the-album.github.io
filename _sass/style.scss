@@ -6,6 +6,7 @@
       } */
 
 body {
+        background: $background-color;
         max-width: $content-width;
         font-family: $base-font-family;
         margin: 0 auto;

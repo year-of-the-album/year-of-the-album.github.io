@@ -21,7 +21,7 @@ function theme() {
 
 };
 
-var data = sessionStorage.getItem('bg');
-var color = sessionStorage.getItem('cc');
-document.body.style.backgroundColor = data;
-document.body.style.color = color;
+//var data = sessionStorage.getItem('bg');
+//var color = sessionStorage.getItem('cc');
+//document.body.style.backgroundColor = data;
+//document.body.style.color = color;

@@ -6,6 +6,8 @@ layout: default
 <p class="subheadline"><em>12 mois, 12 chansons</em></p>
 
 <br/>
+<div class="post-list">
 {% for post in site.posts %}
-<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+<h3 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
 {% endfor %}
+</div>

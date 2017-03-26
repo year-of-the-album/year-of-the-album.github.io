@@ -15,7 +15,7 @@ sur un morceau (triste pour changer) un peu plus dans l'esprit de celui de Novem
 
 ### D'où ça vient
 
-Bon quand je dis "commencer à travailler" c'est faux. C'est un morceau que j'ai depuis plusieurs
+Bon quand je dis : « commencer à travailler », c'est faux. C'est un morceau que j'ai depuis plusieurs
 années dans la tête et qui, comme un bon vin, attendait d'être ouvert à la bonne date.
 
 Vous pouvez entendre la démo que je m'étais faite à l'époque (attention les oreilles) ci-dessous

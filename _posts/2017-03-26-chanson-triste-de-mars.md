@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Chanson triste de Mars
+image: https://i1.sndcdn.com/avatars-000041731420-camp9d-t200x200.jpg
 date:   2017-03-26T22:16:00Z
 ---
 
-Oui, oui, oui, oui, oui, oui je sais... J'ai oublié 2 mois...
-Mais bon, tournons nous vers l'avenir. Pour le mois de Mars, j'ai commencé à travailler
-sur un morceau (triste pour changer) un peu plus dans l'esprit de celui de Novembre
+Oui, oui, oui, oui, oui, oui je sais… J'ai oublié 2 mois… 
+Mais bon, tournons nous vers l'avenir. Pour le mois de Mars, j'ai commencé à travailler 
+sur un morceau (triste pour changer) un peu plus dans l'esprit de celui de Novembre 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314171909&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <br/>

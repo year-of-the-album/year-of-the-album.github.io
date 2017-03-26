@@ -178,3 +178,17 @@ li {
     margin-bottom: 0.4em;
   }
 }
+
+.footer-article {
+  em {
+    font-size: 0.7em;
+  }
+
+  .navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+  }
+}

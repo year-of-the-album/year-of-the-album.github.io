@@ -38,4 +38,4 @@ dans la progression d'accords et la performance du chanteur.
 
 
 Comme d'habitude, n'hésitez pas à me dire ce que vous pensez de ce morceau.
-Et surtout, de me partager vos idées sur ce qu'il serait à améliorer ;)
+Et surtout, de me partager vos idées de ce qu'il serait à améliorer ;)

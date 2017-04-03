@@ -39,3 +39,6 @@ dans la progression d'accords et la performance du chanteur.
 
 Comme d'habitude, n'hésitez pas à me dire ce que vous pensez de ce morceau.
 Et surtout, de me partager vos idées de ce qu'il serait à améliorer ;)
+
+
+PS: Je vous ai rajouté [une page](/album.html) pour écouter tous les morceaux sortis jusqu'ici.

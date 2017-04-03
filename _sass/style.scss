@@ -101,6 +101,11 @@ blockquote {
 
 .headline + .subheadline {
   margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.subheadline + a.whole-album-link {
+  display: block;
 }
 
 

@@ -3,8 +3,11 @@ title: L'Année de l'Album
 layout: default
 ---
 <h1 class="headline">{{page.title}}</h1>
-<p class="subheadline"><em>12 mois, 12 chansons</em></p>
-
+<div class="subheadline">
+  <em>12 mois, 12 chansons</em>
+  &nbsp;-&nbsp;
+  <a class="whole-album-link" href="{{'album.html' | prepend: site.baseurl}}"><em>Écouter tout l'album</em></a>
+</div>
 <br/>
 <div class="post-list">
 {% for post in site.posts %}

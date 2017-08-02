@@ -14,7 +14,8 @@ En plus, j'ai du laisser ma basse au luthier pour une durée indéterminée.
 
 Qu'à cela ne tienne, l'autre jour en regardant des vidéos débiles sur youtube telles que
 [celle-ci](https://www.youtube.com/watch?v=xLcu-Jfw2SM&t=0s) ou encore
-[celle-là](https://www.youtube.com/watch?v=udg0yHrr9sQ)
+[celle-là](https://www.youtube.com/watch?v=udg0yHrr9sQ), j'ai eu envie d'enregistrer un
+petit truc sans prétention.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336001410&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

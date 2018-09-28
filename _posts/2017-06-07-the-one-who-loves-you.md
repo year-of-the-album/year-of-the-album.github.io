@@ -3,7 +3,6 @@ layout: post
 title:  The One Who Loves You
 image: https://i1.sndcdn.com/avatars-000041731420-camp9d-t200x200.jpg
 date:   2017-06-07T22:16:00Z
-season: 2017
 ---
 
 Bon… Je ne sais plus si c'est la chanson d'Avril, Mai ou Juin. En tous les cas, la nouvelle chanson est ici ! Elle s'appelle _The One Who Loves You_

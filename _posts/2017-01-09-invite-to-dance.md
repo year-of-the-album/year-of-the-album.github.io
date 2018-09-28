@@ -2,7 +2,6 @@
 layout: post
 title:  Invite To Dance
 date:   2017-01-09T22:16:00Z
-season: 2017
 ---
 
 Oui, oui, oui, oui, oui, oui je sais... Le morceau de décembre n'est toujours 

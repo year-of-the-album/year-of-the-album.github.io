@@ -3,7 +3,6 @@ layout: post
 title:  Chanson triste de Mars
 image: https://i1.sndcdn.com/avatars-000041731420-camp9d-t200x200.jpg
 date:   2017-03-26T22:16:00Z
-season: 2017
 ---
 
 Oui, oui, oui, oui, oui, oui je sais… J'ai oublié 2 mois… 

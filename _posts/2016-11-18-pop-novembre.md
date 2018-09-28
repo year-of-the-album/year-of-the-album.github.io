@@ -2,6 +2,7 @@
 layout: post
 title:  De la Pop de Novembre
 date:   2016-11-18T22:03:00Z
+season: 2017
 ---
 
 Salut à tous,

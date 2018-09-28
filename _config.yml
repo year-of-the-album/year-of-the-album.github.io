@@ -36,6 +36,7 @@ sass:
 
 exclude:
 - README.md
+- vendor
 
 gems: 
   - jekyll-seo-tag

@@ -2,6 +2,7 @@
 layout: post
 title:  Life Will Go On
 date:   2016-12-04T22:03:00Z
+theme: season-2017
 ---
 
 Avec de la voix c'est mieux ! Le morceau de novembre est dans sa forme définitive.

@@ -20,9 +20,16 @@ $s2017-palette: (
   'grey-light':       lighten(#828282, 40%),
   'grey-dark':       darken(#828282, 25%),
 );
-@function theme-2017 ($key: 'text') {
-  @return map-get($s2017-palette, $key)
-}
+
+// Season 2019 Color palette
+$s2019-palette: (
+  'text': #2F2349,
+  'background': lighten(#D3C2DF, 12%),
+  'brand':      darken(#978AC4, 10%),
+  'grey':       #8B7E95,
+  'grey-light':       lighten(#828282, 40%),
+  'grey-dark':       darken(#828282, 25%),
+);
 
 $s2017-text-color:       #333;
 $s2017-background-color: #fbfdf7;

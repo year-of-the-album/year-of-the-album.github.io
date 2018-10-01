@@ -12,7 +12,9 @@
   {% seo %}
   {% feed_meta %}
 </head>
-<body class="season-2017">
+
+{% capture theme_name %}{% if page.theme %}{{page.theme}}{% else %}season-2019{% endif %}{% endcapture %}
+<body class="{{ theme_name }}">
   <header>
       <a href="{{site.baseurl}}/"><div class="home"></div></a>
   </header>

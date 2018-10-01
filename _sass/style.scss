@@ -103,10 +103,22 @@
 
 
     .home {
-      background-image: url(../images/left-arrow.svg);
+      //background-image: url(../images/left-arrow.svg);
+      background-color: map-get($palette, 'brand');
+      border-radius: 40px;
+
+      &::after {
+        content: '〈';
+        font-size: 25px;
+        top: 6px;
+        left: 5px;
+        position: absolute;
+        color: map-get($palette, 'background');
+      }
+
       background-repeat: no-repeat;
-      height: 40px;
-      width: 40px;
+      height: 50px;
+      width: 50px;
       opacity: 0.9;
       position: fixed;
       top: 50px;
@@ -120,6 +132,12 @@
         height: 30px;
         width: 30px;
         opacity: 0.6;
+        &::after {
+          font-size: 15px;
+          top: 4px;
+          left: 3px;
+        }
+
       }
 
 
@@ -193,4 +211,5 @@
   }
 }
 
-@include season-theme ($s2017-palette, 'season-2017')
+@include season-theme ($s2017-palette, 'season-2017');
+@include season-theme ($s2019-palette, 'season-2019');

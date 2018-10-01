@@ -2,6 +2,7 @@
 layout: post
 title:  L'album de l'année
 date:   2016-11-17T22:03:00Z
+theme: season-2017
 ---
 
 **J'ai un projet pour cette année.**

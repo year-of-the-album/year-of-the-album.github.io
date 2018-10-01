@@ -9,16 +9,28 @@ $base-font-size:   20px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
-
 $spacing-unit:     30px;
 
-$text-color:       #333;
-$background-color: #fbfdf7;
-$brand-color:      #a2521f;
+// Season 2017 Color palette
+$s2017-palette: (
+  'text': #333,
+  'background': #fbfdf7,
+  'brand':      #a2521f,
+  'grey':       #828282,
+  'grey-light':       lighten(#828282, 40%),
+  'grey-dark':       darken(#828282, 25%),
+);
+@function theme-2017 ($key: 'text') {
+  @return map-get($s2017-palette, $key)
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$s2017-text-color:       #333;
+$s2017-background-color: #fbfdf7;
+$s2017-brand-color:      #a2521f;
+
+$s2017-grey-color:       #828282;
+$s2017-grey-color-light: lighten($s2017-grey-color, 40%);
+$s2017-grey-color-dark:  darken($s2017-grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;

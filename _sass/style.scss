@@ -1,6 +1,7 @@
 @mixin season-theme ($palette, $classname) {
 
   body.#{$classname} {
+    position: relative;
     background: map-get($palette, 'background');
     max-width: $content-width;
     font-family: $base-font-family;
@@ -8,12 +9,14 @@
     line-height: $base-line-height;
     font-size: $base-font-size;
     color: map-get($palette, 'text');
-    padding: 2em 1em;
+    padding: 2em 1em 0;
     text-rendering: optimizeLegibility;
-    height: 100%;
+    min-height: 100%;
+    min-height: calc(100% - 2em);
     @include media-query($on-palm) {
       max-width: 100%;
       padding: 1em;
+      min-height: calc(100% - 2em);
     }
 
     h1,h2,h3,h4,h5,h6 {
@@ -104,6 +107,7 @@
 
     .home {
       //background-image: url(../images/left-arrow.svg);
+      z-index: 20;
       background-color: map-get($palette, 'brand');
       border-radius: 40px;
 
@@ -213,3 +217,36 @@
 
 @include season-theme ($s2017-palette, 'season-2017');
 @include season-theme ($s2019-palette, 'season-2019');
+
+html {
+  height: 100%;
+}
+body.season-2019 {
+  padding-bottom: 20vh;
+  min-height: calc(100% - 2em - 20vh);
+
+  & > footer.layout-footer {
+    content: '';
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 20vh;
+    background: linear-gradient(to top, transparent, lighten(#D3C2DF, 12%)), url(/images/herd-filter.canva.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    //position: absolute;
+    //bottom: 0;
+    position: absolute;
+    left: calc((100vw - 100%)/-2);
+    bottom: 0px;
+
+    @media screen and (min-width: 1600px) {
+      filter: blur(0.03vw);
+    }
+  }
+}
+
+body.season-2017 {
+  padding: 2em 1em;
+}

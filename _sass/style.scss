@@ -223,6 +223,7 @@ html {
 }
 body.season-2019 {
   padding-bottom: 20vh;
+  overflow-x: hidden;
   min-height: calc(100% - 2em - 20vh);
 
   & > footer.layout-footer {

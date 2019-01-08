@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Morning Headache
-image: /images/hippopotamus-filter.jpg
+image: /images/2019/hippopotamus-filter.jpg
 date:   2019-01-01T09:30:00Z
 theme: season-2019
 ---

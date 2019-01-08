@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  La Reprise
-image: /images/hippopotamus-filter.jpg
+image: /images/2019/hippopotamus-filter.jpg
 date:   2018-10-01T18:30:00Z
 theme: season-2019
 ---

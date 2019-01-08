@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaser Octobre
-image: /images/hippopotamus-filter.jpg
+image: /images/2019/hippopotamus-filter.jpg
 date:   2018-10-15T18:30:00Z
 theme: season-2019
 ---

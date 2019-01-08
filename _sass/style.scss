@@ -100,8 +100,37 @@
       margin-bottom: 0px;
     }
 
-    .subheadline + a.whole-album-link {
-      display: block;
+    a.whole-album-link {
+      @include media-query($on-palm) {
+        display: table;
+        .listen-logo {
+          margin-right: .5em;
+        }
+      }
+
+      &::before {
+        content: ' - ';
+        margin: 0 .3em;
+        @include media-query($on-palm) {
+          display: none;
+        }
+      }
+      .listen-logo {
+        height: 1em;
+        opacity: 0;
+        animation: fade-in-opacity 500ms forwards;
+        animation-delay: .5s;
+      }
+
+      @keyframes fade-in-opacity {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
     }
 
 
@@ -155,7 +184,7 @@
       }
       @include media-query($on-palm) {
         height: 180px;
-      }   
+      }
     }
 
     // Adding 'Contents' headline to the TOC

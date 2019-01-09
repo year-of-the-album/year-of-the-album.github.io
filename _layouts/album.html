@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<a href="/" ref="home">← L'Année de l'Album : retour</a>
+<main>
+  <h1 class="headline">{{page.title}}</h1>
+  <div class="subheadline">
+    <em>{{ page.subtitle }}</em>
+  </div>
+
+  <ul class="album-selection">
+    <li class="album album-2019">
+      {% if page.season == 2019 %}
+        <a class="current">2018/2019</a>
+      {% else %}
+        <a href="{{'/albums/album-2019.html' | prepend: site.baseurl}}">2018/2019</a>
+      {% endif %}
+    </li>
+    <li class="album album-2017">
+      {% if page.season == 2017 %}
+        <a class="current">2016/2017</a>
+      {% else %}
+        <a href="{{'/albums/album-2017.html' | prepend: site.baseurl}}">2016/2017</a>
+      {% endif %}
+    </li>
+  </ul>
+
+  {{content}}
+
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ page.playlist }}&color=%23{{ page.player_color }}&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</main>

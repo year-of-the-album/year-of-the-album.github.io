@@ -30,9 +30,11 @@
 
     a {
       color: map-get($palette, 'brand');
+      fill: map-get($palette, 'brand');
       text-decoration: none;
       &:hover{
         color: map-get($palette, 'text');
+        fill: map-get($palette, 'text');
       }
     }
 
@@ -96,6 +98,10 @@
     }
 
     .headline + .subheadline {
+      font-family: inherit;
+      font-size: 1em;
+      font-weight: 100;
+      text-transform: none;
       margin-top: 0px;
       margin-bottom: 0px;
     }
@@ -120,6 +126,10 @@
         opacity: 0;
         animation: fade-in-opacity 500ms forwards;
         animation-delay: .5s;
+
+        path {
+          fill: inherit;
+        }
       }
 
       @keyframes fade-in-opacity {
@@ -241,6 +251,27 @@
         justify-content: space-between;
       }
     }
+
+    .album-selection {
+      list-style: none;
+      padding: 0;
+      display: block;
+
+      .album {
+        display: inline-block;
+        a {
+          display: inline-block;
+          padding: 0 1em;
+          border-bottom: 1px solid map-get($palette, 'brand');
+          &.current {
+            background: map-get($palette, 'brand');
+            color: map-get($palette, 'background');
+            border-radius: .2em .2em 0 0;
+          }
+        }
+      }
+    }
+
   }
 }
 

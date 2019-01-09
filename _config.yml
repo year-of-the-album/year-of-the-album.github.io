@@ -4,6 +4,9 @@ title: L'Année de L'album
 description: '12 mois, 12 chansons.'
 author: Floby
 
+plugins:
+  - jekyll-sitemap
+
 #baseurl: /bidule
 locale: fr
 lang: fr

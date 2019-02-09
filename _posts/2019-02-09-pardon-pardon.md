@@ -22,8 +22,8 @@ Oh, It's truly over
 
 Looking good in the stupid lobby mirror
 It no longer reminds you of her
-getting on with a life that's free of sass
-seeing nothing through the looking glass
+Getting on with a life that's free of sass
+Seeing nothing through the looking glass
 You know that bitterness too shall pass
 
 Oh,
@@ -37,9 +37,9 @@ It's truly over (bis)
 ### Insipration
 
 Pour tout vous dire, je savais que je voulais partir en vacances alors j'ai voulu faire une chanson toute simple.
-Dans le genre minimaliste, j'ai voulu une chanson avec un groove rythmé, beaucoup de subdivision, mais on joue très peu
-des subdivision. C'est marrant parce que je l'ai mises au métronome pour enregister le chant et j'ai vraiment senti
-la différence, même après les avoir enlevés
+Dans le genre minimaliste, j'ai voulu une chanson avec un groove rythmé, beaucoup de subdivisions, mais on joue très peu
+des subdivisions. C'est marrant parce que je l'ai mises au métronome pendant l'enregistrement du chant et j'ai vraiment senti
+la différence, même après les avoir enlevés du mix.
 
 Bref, 3 accords trouvé un soir sur la guitare, une phrase qui vient bien se poser dessus : "_It's truly over_". Oui mais
 alors bon de quoi va parler le reste de la chanson ? Au final, c'est un dialogue interne d'un bonhomme qui se rend compte

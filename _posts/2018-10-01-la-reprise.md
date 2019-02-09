@@ -18,6 +18,39 @@ Pour vous donner une petite ambiance musicale, vous pouvez lancer ce morceau. On
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/507527109&color=%232f2349&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
+<lyrics>
+Last night I had a dream about you
+In this dream I'm dancing right beside you
+And it looked like everyone was having fun
+the kind of feeling I've waited so long
+
+Don't stop come a little closer
+As we jam the rhythm gets stronger
+There's nothing wrong with just a wee bit of fun
+We were dancing all night long
+
+Ooh I don't know what to do
+About this dream and you
+We'll make this dream come true
+
+The time is right to put my arms around you
+You're feeling right
+You wrap your arms around too
+But suddenly I feel the shining sun
+Before I knew it this dream was all gone
+
+Ooh I don't know what to do
+About this dream and you
+I wish this dream comes true
+
+Ooh I don't know what to do
+About this dream and you
+We'll make this dream come true
+
+Why don't you play the game ?
+Why don't you play the game ?
+</lyrics>
+
 ### Retrospective
 
 En lançant le projet je voulais :

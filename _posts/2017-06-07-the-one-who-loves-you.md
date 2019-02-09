@@ -10,6 +10,40 @@ Bon… Je ne sais plus si c'est la chanson d'Avril, Mai ou Juin. En tous les cas
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327930562&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+<lyrics>
+I can't even recall my name
+I left it on my way to ecstasy
+You can call me names, it's all the same
+As long as I know just what I'm meant to be
+
+Just remember our night together, September in the rain
+When you said you loved me too
+At least I wanted you to
+
+I'm the one who loves you
+I'm the one who loves you
+My love stays intact
+Because of the simple fact that
+That's just who I am
+That's just who I am
+
+As years go by and change our lives
+There's nothing new to what lives deep inside
+Come teach me how to be alive
+It feels like such a neverending glide
+
+'Cause the time we've got together is so fragile in our hands
+So say that you love me too
+And we'll forever be two
+
+I'm the one who loves you
+I'm the one who loves you
+My love stays intact
+Because of the simple fact that
+That's just who I am
+That's just who I am
+</lyrics>
+
 L'Histoire de cette chanson est un peu différente. J'en ai tout simplement eu l'idée sous la douche.
 J'étais en train de me dire que toutes ou presque toutes mes chansons étaient tout simplement
 triste, alors que je ne pense pas être spécialement un personne triste (si ?). J'ai surtout

@@ -8,8 +8,27 @@ theme: season-2017
 
 La voici, la voilà, la chanson de Mars est là. Elle s'appelle _Ashes In The Wind_
 
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315949297&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<lyrics>
+Pictures fly in the city lights
+Future or past is lost in the void
+Now they might be out of sight
+Children you know fire's not a toy
+
+You know, You know
+Something has come, it makes me think it's a sin
+Illusions gone, now it's ashes in the wind
+
+Stranger faces come around and say:
+"Do you remember life as it was?"
+Memories never fade away
+They only &#x23F9;&#xFE0E; and &#x25b6;&#xFE0E; and &#x23f8;&#xFE0E;
+
+You know, You know
+Something has come, it makes me think it's a sin
+Illusions gone, now it's ashes in the wind
+</lyrics>
 
 Comme expliqué [précédemment]({{page.previous.url}}), C'est une chanson à vocation triste, pour changer,
 qui parle des souvenirs qui s'enfuient, s'éfloutent (oui) et s'envolent.

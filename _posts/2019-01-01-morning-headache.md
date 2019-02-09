@@ -11,7 +11,15 @@ Pour adoucir votre gueule de bois de nouvel an, vous pourrez écouter mon morcea
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/551778603%3Fsecret_token%3Ds-guLv6&color=%232f2349&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-<br>
+<lyrics>
+Just woke up feeling nasty.
+
+Dreaming about you is a headache.
+
+(Get out of my head and let me be!)
+
+Do you remember my face at all?
+</lyrics>
 
 ### Insipration
 

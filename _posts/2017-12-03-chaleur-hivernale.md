@@ -6,7 +6,6 @@ date:   2017-12-03T22:16:00Z
 theme: season-2017
 ---
 
-
 Salut salut !
 
 Vous vous rappelez la [dernière fois]({{page.previous.url}}) ? C'était l'été, il faisait chaud,
@@ -17,6 +16,27 @@ de difficulté à prendre le temps de m'occuper de ce morceau, j'ai enfin enregi
 qui va par dessus.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/364525289&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<lyrics>
+The sun is setting down as you pose in the light
+The carribean sea glimmers in the night
+And I see you over there and you look beautiful
+And you see me over here and we look beautiful
+I just saw you hold a little bear close to your heart in Spain
+I liked it but I would love to be there again
+I wish I was there again (bis)
+
+On the highest peak you seem like an angel watching down
+The sherpa guide is your kindest friend around
+And I see you over there and you look beautiful
+And you see me over here and we look beautiful
+I just heard you sing this song we'd sing in the rain
+I hummed along and wished I was there again
+I wish I was there again (bis)
+
+And I see you over there and you look beautiful
+And you see me over here and we look beautiful
+</lyrics>
 
 Au fond, ça raconte l'histoire d'un bonhomme qui regarde son fil Facebook et vois (stalk) les
 photos de vacances de « cette fille ». Bien sûr sur Facebook, tout le monde va bien et est heureux

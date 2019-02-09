@@ -11,7 +11,39 @@ Puisque vous pouvez écouter ce morceau de Décembre dès à présent et tout de
 là en dessous.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301733782&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-<br/>
+
+<lyrics>
+You, when come across the room towards me
+And in an instant, you're gently asking me to slow dance
+I say "No. I look silly when I move" but then
+You say it's too bad, You've made up you're mind. "It's my chance"
+
+And you say as you take me by the hand:
+"I'm not asking again"
+
+And then, as we walk across the dancefloor
+It's like Time's to a halt, we're in an old movie in black & white.
+But when I feel your head on my shoulder
+It's as if we're the only colorized pair in sight
+
+And I say as I take you by the hand:
+"I'll do the best I can"
+
+Oh and we'll dance the night away
+Waiting for each other to say
+The words whose absence makes me agonize
+Oh and we'll dance this night out
+And wouldn't leave your without
+Telling you how I feel inside as I look in your eyes
+
+And now, as the music fades away, it seems that
+This moment is floating away in the air
+
+But if you fly away out of hand
+I'll be there where you land
+And if you don't let go of my hand
+I'll be there till the end
+</lyrics>
 
 ### Inspiration
 

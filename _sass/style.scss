@@ -88,6 +88,52 @@
       font-style: italic;
     }
 
+    lyrics {
+      display: none;
+    }
+    blockquote.lyrics {
+      margin: 1em;
+      white-space: pre-line;
+      overflow: hidden;
+
+      .handle {
+        cursor: pointer;
+        font-family: $base-font-family;
+        font-style: normal;
+        &:before {
+          content: '>';
+          display: inline-block;
+          transform: rotate(90deg);
+          transition: ease-out 200ms;
+        }
+        &:after {
+          content: 'Paroles';
+          margin-left: .5em;
+        }
+      }
+      lyrics {
+        transition: height ease-out 300ms, opacity linear 200ms 300ms;
+        transition-delay: 0ms, 300ms;
+        display: block;
+        opacity: 1;
+      }
+
+      &.closed {
+        .handle {
+          &:before {
+            transform: rotate(0);
+          }
+        }
+
+        lyrics {
+          transition-delay: 300ms, 0ms;
+          color: inherit;
+          opacity: 0;
+          height: 0;
+        }
+      }
+    }
+
 
 
     .headline {

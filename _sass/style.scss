@@ -1,10 +1,15 @@
 @mixin season-theme ($palette, $classname) {
+  body.#{$classname} {
+    @each $name, $value in $palette {
+      --theme-#{$name}: #{$value};
+    }
+  }
 
   body.#{$classname} {
     position: relative;
     background: map-get($palette, 'background');
     max-width: $content-width;
-    font-family: $base-font-family;
+    font-family: #{map-get($palette, 'reg-font')};
     margin: 0 auto;
     line-height: $base-line-height;
     font-size: $base-font-size;
@@ -20,7 +25,7 @@
     }
 
     h1,h2,h3,h4,h5,h6 {
-      font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+      font-family: #{map-get($palette, 'em-font')};
       font-weight: bold;
       line-height: 1.1;
       margin: 0;
@@ -49,7 +54,8 @@
       -moz-transition: box-shadow ease 1s;
       transition: box-shadow ease 1s;
       &:hover {
-        color: lighten(map-get($palette, 'background'), 50%);
+        color: lighten(map-get($palette, 'background'), 20%);
+        color: map-get($palette, 'background');
         box-shadow: inset 0 -100px 0 0 lighten(map-get($palette, 'brand'), 10%);
 
       }
@@ -98,7 +104,7 @@
 
       .handle {
         cursor: pointer;
-        font-family: $base-font-family;
+        font-family: #{map-get($palette, 'reg-font')};
         font-style: normal;
         &:before {
           content: '>';
@@ -323,6 +329,7 @@
 
 @include season-theme ($s2017-palette, 'season-2017');
 @include season-theme ($s2019-palette, 'season-2019');
+@include season-theme ($s2020-palette, 'season-2020');
 
 html {
   height: 100%;

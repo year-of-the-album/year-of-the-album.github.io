@@ -2,6 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 @charset "utf-8";
 
 $base-font-family: 'Work Sans', sans-serif;
@@ -16,9 +19,8 @@ $s2017-palette: (
   'text': #333,
   'background': #fbfdf7,
   'brand':      #a2521f,
-  'grey':       #828282,
-  'grey-light':       lighten(#828282, 40%),
-  'grey-dark':       darken(#828282, 25%),
+  'em-font': '"Lato", "Helvetica Neue", Helvetica, sans-serif',
+  'reg-font': '"Work Sans", sans-serif',
 );
 
 // Season 2019 Color palette
@@ -26,9 +28,17 @@ $s2019-palette: (
   'text': #2F2349,
   'background': lighten(#D3C2DF, 12%),
   'brand':      darken(#978AC4, 20%),
-  'grey':       #8B7E95,
-  'grey-light':       lighten(#828282, 40%),
-  'grey-dark':       darken(#828282, 25%),
+  'em-font': '"Lato", "Helvetica Neue", Helvetica, sans-serif',
+  'reg-font': '"Work Sans", sans-serif',
+);
+
+// Season 2019 Color palette
+$s2020-palette: (
+  'text': #b4cac6,
+  'background': #130501,
+  'brand':      #e5752b,
+  'em-font': '"Permanent Marker", "Lato", Helvetica, cursive',
+  'reg-font': '"Indie Flower", "Work Sans", sans-serif',
 );
 
 $s2017-text-color:       #333;
@@ -62,6 +72,4 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "style"
-;
+@import "style";

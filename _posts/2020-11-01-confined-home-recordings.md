@@ -13,7 +13,7 @@ J'ai aussi emporté quelques articifices pour filmer.
 Hier j'ai fait mon premier _live_ sur [ma chaîne Twitch](https://twitch.tv/flobyiv) et c'était très rigolo.
 J'ai enregistré quelques prises de guitare pour une reprise du morceau des _Arctic Monkeys_ : _Do Me a Favour._
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/927400114&color=%2394849c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<soundcloud-player track-id="927400114"/>
 
 <br>
 
